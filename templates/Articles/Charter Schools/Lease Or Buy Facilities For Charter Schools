@@ -1,0 +1,38 @@
+{% extends "article_layout.html" %}
+{% block article_head %}
+<title> Is It Better To Lease Or Own Your Charter School Facilities?</title>
+   <meta property="og:title" content=" Is It Better To Lease Or Own Your Charter School Facilities?">
+   <meta property="og:description" content="Both have their unique sets of benefits and risks and the right decision will depend on your current capital, annual income, and long term vision. Let's talk about the 4 key points we consider when determining what’s best for your Charter School.">
+{% endblock %}
+
+{% block article %}
+<h1>Is It Better To Lease or Own Your Charter School Facilities? </h1>
+
+<p>Deciding to either own or lease the facility for you Charter School is one of the most significant choices a school will face. Both have their unique sets of benefits and risks and the right decision will depend on your current capital, annual income, and long term vision. Real estate tends to be a safe long-term investment for individuals and for-profit companies in the United States, though for non-profit charter schools there are extra factors to consider if owning facilities is right for you.  However, the right choice should provide you with less headaches, a control of what matters in your day to day operations, and more time to provide quality education to your students. Below are 4 key points we consider when determining what’s best for your Charter School.</p>
+
+
+<h3>Consider Total Costs</h3>
+Potential costs could be mortgage payments, lease payments, or payments to bondholders. Purchasing a facility is going to require a more significant capital investment than leasing would. For this reason, Charter Schools with more established track records and capital reserves are usually more prepared to purchase a facility. This allows the Charter School the luxury of having complete control of the grounds, developing long term equity, and providing a physical location to build community. Depending on the skills of your team, these added features may be more of a headache than an asset. If so, leasing could be a better option.
+
+Lease payments would be negotiated with the landlord and may or may not include added fees for the upkeep and maintenance of the facility. In some cases, landlords are willing to negotiate long term leases or lease to own arrangements that can either offer additional value to new Charter Schools or Charter Schools that are looking to purchase facilities in the future after they become more established but aren’t ready to take on that kind of commitment yet.
+
+Bond payments are made to the bondholder based on the agreed upon interest rate until the bond is due, which is when the Charter School pays back the principal. Bonds can be surprisingly costly as they require the Charter School to have the necessary cash reserves to provide security to the bond holders and usually require hundreds of thousands of dollars in legal fees for attorneys to facilitate the bond transaction.
+
+
+
+
+<h3>Tax Advantages</h3>
+<p>There are a number of potential tax breaks for investing in real estate or government assistance programs that cover parts of building maintenance that are available to Charter Schools depending on their state of residence. In some cases, Charter Schools are able to extend these benefits to investors and can use this to generate more funding. This can be a huge boon for for-profit Charter Schools, though not as much to non-profit Charter Schools as they are already exempt from most taxes and lack the ability to distribute surplus capital to investors. </p> <br>
+
+
+
+
+<h3>Facility Repair and Maintenance</h3>
+<p>Owning your facility makes you responsible for any general and emergency upkeep. This includes high ticket repair items like roofing, HVAC, ventilation, heating, fire prevention, and ADA requirements. When leasing, the landlord is usually negotiated with to be responsible for at least part of,  if not the entirety of these expensive items. Charter Schools should think about how long they see themselves using these facilities and evaluate if one of these expensive items look like they will need any repair during the Charter School’s use. Not having to deal with any strenuous relationships with landlords is a substantial benefit to any Charter School but may not be worth the opportunity cost if they find themselves having to pay full price to repair expensive components of their facility.</p><br>
+
+<h3>Regional changes</h3>
+<p>After purchasing a facility, a Charter School is more or less locked in to operating at that particular location and committed to becoming an integral part of that community. This doesn’t pose a problem to a Charter School that has a well established mission and education process that supports the needs of the community, but could become a problem for developing Charter Schools that are developing their mission and find out they no longer have the right fit for their current location. In this scenario, it would be better for Charter Schools with a precise understanding of the communities they want to educate to look at purchasing facilities in those areas. </p><br>
+
+
+<p>Also, gentrification is an issue today that Charter Schools need to consider when determining their facility’s location. Growing urban locations are experiencing large shifts in their demographics, destabilizing the target demographics Charter Schools may be wishing to educate. Charter Schools looking to purchase facilities may find it a problem if they choose a facility to educate a specific demographic but find out that demographic is quickly leaving the area.
+  {% endblock %}
